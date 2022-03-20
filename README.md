@@ -1,4 +1,7 @@
-### Hi there, I'm Maksim👋
+### Hi there, I'm Maksim 🐳
+
+- 🏛 TSU
+- 👨‍💻 Higher IT School student
 
 <!--
 **max911z/max911z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
