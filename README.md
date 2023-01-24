@@ -16,6 +16,12 @@ I am a junior iOS developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox: How to contact me: Just send email to [max911z@icloud.com](mailto:max911z@icloud.com)
 
 ---
+## 🌐 Socials:
+[![VK](https://img.shields.io/badge/-Vk-2D2F37.svg?logo=vk&style=for-the-badge)](https://vk.com/never_off_sky)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0.svg?logo=telegram&style=for-the-badge)](https://t.me/never_off_sky)
+[![Instagram](https://img.shields.io/badge/-Instagram-4c5df7.svg?logo=instagram&style=for-the-badge)](https://instagram.com/never_off_sky)
+
+---
 ### :hammer_and_wrench: Tech stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-1FCBFF.svg?logo=&style=for-the-badge)
