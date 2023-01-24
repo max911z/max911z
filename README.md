@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47067atp1ucttt2j9ylxn5g0qxhjpe6a1jw62qu9fs&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif?cid=ecf05e47424ow441oslutmyld0tijmpqcqd94jehem4npovf&rid=giphy.gif&ct=s" width="200"/>
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -16,7 +16,7 @@ I am a junior iOS developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox: How to contact me: Just send email to [max911z@icloud.com](mailto:max911z@icloud.com)
 
 ---
-## 🌐 Socials:
+### 🌐 Socials:
 [![VK](https://img.shields.io/badge/-Vk-2D2F37.svg?logo=vk&style=for-the-badge)](https://vk.com/never_off_sky)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0.svg?logo=telegram&style=for-the-badge)](https://t.me/never_off_sky)
 [![Instagram](https://img.shields.io/badge/-Instagram-4c5df7.svg?logo=instagram&style=for-the-badge)](https://instagram.com/never_off_sky)
