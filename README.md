@@ -8,10 +8,8 @@
 
 ---
 ### :man_technologist: About Me :
-I am a junior iOS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Tomsk.
-- :zap: I work for a fintech company
-
-- :man_student: 3rd year student of the Faculty of Software Engineering
+I am iOS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Tomsk.
+- :man_student: 4rd year student of the Faculty of Software Engineering
 
 - :mailbox: How to contact me: Just send email to [max911z@icloud.com](mailto:max911z@icloud.com)
 
